@@ -2,7 +2,7 @@
 
 CodeBros is a small tech company specializing in web design and software development.
 
-Website based of a theme which can be found [here](http://startbootstrap.com/template-overviews/creative/).
+Website based off a theme which can be found [here](http://startbootstrap.com/template-overviews/creative/).
 
 ## Status
 
